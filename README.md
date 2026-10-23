@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Akzhyyy 👋
 
-<!--
-**akzhyyy/akzhyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Enthusiast | Penetration Tester
 
-Here are some ideas to get you started:
+I'm passionate about identifying security vulnerabilities,
+understanding attack surfaces, and improving application security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- Web Application Security
+- Network Penetration Testing
+- API Security
+- Vulnerability Research
+- Linux & Active Directory Security
+
+## My Work
+
+- [Penetration Testing Reports](YOUR_REPO_LINK)
+- [Security Writeups](YOUR_REPO_LINK)
+- [Vulnerability Research](YOUR_REPO_LINK)
+- [Security Tools](YOUR_REPO_LINK)
+
+## Tools & Technologies
+
+Kali Linux | Burp Suite | Nmap | Metasploit
+Python | Bash | Linux | Wireshark
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/akshay-g-babu
+- Email: akzhyyyyyy@gmail.com
