@@ -1,30 +1,26 @@
-# Hey, I'm Akzhyyy 👋
+ # Akzhyyy — Pentester | IoT & Web Security
 
-## Cybersecurity Enthusiast | Penetration Tester
+  BCA Final Year | CEH v13 | RedTeam Academy Certified
 
-I'm passionate about identifying security vulnerabilities,
-understanding attack surfaces, and improving application security.
+  ## Focus
+  - Web App Pentesting (OWASP Top 10, GraphQL, JWT, SSRF)
+  - IoT/Embedded Security (Firmware, MQTT/CoAP/Modbus, UART/JTAG)
+  - Network Pentesting (AD, Kerberos, Lateral Movement)
+  - Automation (Python, Bash, Burp Extensions)
 
-## Areas of Interest
-- Web Application Security
-- Network Penetration Testing
-- API Security
-- Vulnerability Research
-- Linux & Active Directory Security
+  ## Pinned Repos
+  - pentest-scripts: 20+ automation scripts
+  - web-pentest-labs: PortSwigger + DVWA + Juice Shop writeups
+  - iot-hacking-labs: Firmware analysis, protocol exploitation, hardware
+  - home-lab: Documented Kali + 5 VMs + IoT segment
+  - ctf-writeups: THM & HTB methodology-first writeups
 
-## My Work
+  ## Certifications
+  - CEH v13: Certified
+  - RedTeam Academy: Certified Penetration Tester
 
-- [Penetration Testing Reports](YOUR_REPO_LINK)
-- [Security Writeups](YOUR_REPO_LINK)
-- [Vulnerability Research](YOUR_REPO_LINK)
-- [Security Tools](YOUR_REPO_LINK)
+  ## Connect
+  - LinkedIn: linkedin.com/in/akshay-g-babu
+  - Email: akzhyyyyyy@gmail.com
 
-## Tools & Technologies
-
-Kali Linux | Burp Suite | Nmap | Metasploit
-Python | Bash | Linux | Wireshark
-
-## Connect With Me
-
-- LinkedIn: www.linkedin.com/in/akshay-g-babu
-- Email: akzhyyyyyy@gmail.com
+  > I break things to make them secure.
