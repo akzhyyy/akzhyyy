@@ -1,6 +1,6 @@
  # Akzhyyy — Pentester | IoT & Web Security
 
-  BCA Final Year | CEH v13 | RedTeam Academy Certified
+  BCA Final Year | CEH v13 | Certified Penetration Tester ( Redteam Hacker Academy )
 
   ## Focus
   - Web App Pentesting (OWASP Top 10, GraphQL, JWT, SSRF)
